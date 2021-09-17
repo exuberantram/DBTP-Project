@@ -6,8 +6,8 @@
 
 ### Next Steps: 
 ```
-- Separate the JavaScript from the HTML into its own file
-- Add a secondary static Div that the moveable Div can go over
 - Add bounds for the moveable Div to keep it in a certain area
 - Project a copy of the static Div below the bounds of the moveable Div
+- Create a clipping effect of the moveable Div over the Static Div
+- Project the negative shape created by the moveable div and the Static div to below the bounds of the moveable Div
 ```
